@@ -17,7 +17,7 @@ Welcome, Space Marshmallow! This game is HARD, and you'll need to think ahead ab
 
 **NEED MORE HELP?:** Create an issue within the 'periwinkle-paradox-walkthrough' repository titled 'Need Assistance with Game Walkthrough.' Ensure that each new issue includes the following details at the end of the content:
 - What the issue is
-- Latest shipment email copy/paste
+- Latest 3 emails copy/paste
 
 
 This will help streamline the process for anyone needing assistance, ensuring that all content is 
@@ -47,7 +47,7 @@ This tutorial level introduces basic mechanics.
 
 **NEED MORE HELP?:** Create an issue within the 'periwinkle-paradox-walkthrough' repository titled 'Need Assistance with Game Walkthrough.' Ensure that each new issue includes the following details at the end of the content:
 - What the issue is
-- Latest shipment email copy/paste
+- Latest 3 emails copy/paste
 
 
 This will help streamline the process for anyone needing assistance, ensuring that all content is 
