@@ -53,13 +53,7 @@ The walkthrough includes:
 ## 🎓 Basic Mechanics
 
 ### Gravity Cycle
-After each move you make, gravity pulls you in a specific direction:
-
-1. **Move 1**: Gravity pulls ⬇️ **DOWN**
-2. **Move 2**: Gravity pulls ⬆️ **UP**
-3. **Move 3**: Gravity pulls ⬅️ **LEFT**
-4. **Move 4**: Gravity pulls ➡️ **RIGHT**
-5. **Move 5**: Cycle repeats (⬇️ DOWN again)
+After each move you make, gravity pulls you in a specific direction.
 
 The game shows you the **next** gravity direction, so you can plan ahead!
 
