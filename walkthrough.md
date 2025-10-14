@@ -20,7 +20,7 @@ Welcome, Space Marshmallow! This game is HARD, and you'll need to think ahead ab
 - Latest shipment email copy/paste
 
 
-This will help streamline the process for anyone needing assistance, ensuring that all necessary billing information is 
+This will help streamline the process for anyone needing assistance, ensuring that all content is 
 readily available when they raise an issue.
 
 ---
@@ -50,7 +50,7 @@ This tutorial level introduces basic mechanics.
 - Latest shipment email copy/paste
 
 
-This will help streamline the process for anyone needing assistance, ensuring that all necessary billing information is 
+This will help streamline the process for anyone needing assistance, ensuring that all content is 
 readily available when they raise an issue.
 
 **Difficulty:** Easy
